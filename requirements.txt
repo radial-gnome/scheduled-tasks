@@ -1,6 +1,2 @@
 pandas
 datetime
-random
-smtplib
-requests
-os
