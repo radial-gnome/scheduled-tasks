@@ -1,6 +1,6 @@
 import datetime as dt
 import pandas as pd
-import random
+from random import randint
 import smtplib
 import os
 
